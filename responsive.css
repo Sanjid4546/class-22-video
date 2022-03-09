@@ -1,0 +1,199 @@
+
+
+
+
+@media (max-width:1400px) {
+    .activeity-content {
+        margin-top: 0;
+        margin-left: 144px;
+    }
+
+    
+}
+
+@media (max-width:1200px) {
+    .activeity-content p {
+        font-size: 17px;
+        line-height: 2.8rem;
+    }
+    .activeity-content h1 {
+        font-weight: 400;
+        margin-bottom: 11px;
+        font-size: 32px;
+    }
+    .activeity-content {
+        margin-top: 0;
+        margin-left: 40px;
+    }
+    p {
+      
+        font-size: 14px;
+    }
+    .fiture-content h4 {
+        font-size: 19px;
+    }
+    .Priyo {
+        margin-bottom: 16px;
+    }
+   
+    
+}
+@media (max-width:1000px) {
+    .activeity-content p {
+        font-size: 17px;
+        line-height: 2.0rem;
+    }
+    .activeity-content {
+        margin-top: 0;
+        margin-left: 0;
+    } 
+    p {
+        font-size: 12px;
+    }
+    .fiture-content h4 {
+        font-size: 16px;
+    }
+}
+@media (max-width:768px) {
+    .fiture-content h4 {
+        font-size: 25px;
+    }
+    p {
+        font-size: 18px;
+    }
+    .priceing-items {
+        
+        margin-bottom: 37px;
+    }
+    
+}
+
+
+@media(max-width:750px){
+    .form-control.form.form-control-lg.d-block {
+        margin-bottom: 12px;
+        width: 193px;
+        margin: auto;
+        margin-bottom: 15px;
+    }
+    .shihab {
+        margin: auto;
+        width: 129px;
+        font-size: 17px;
+    }
+    
+
+}
+@media (max-width:700px) {
+    .slider-caption h4 {
+        font-size: 18px;
+    }
+    
+}
+@media (max-width:550px){
+    .slider-caption h4 {
+        font-size: 17px;
+    }
+    .activeity-content p {
+       
+        margin-bottom: 43px;
+    }
+    .what-do-content p {
+        font-size: 17px;
+    }
+
+
+}
+@media (max-width:500px) {
+    .slider-section {
+      
+        padding: 129px 0;
+     
+    }
+    .what-do-content p {
+        font-size: 17px;
+    }
+    .what-do-content h1 {
+        font-size: 20px;
+    }
+    
+}
+@media (max-width:450px) {
+    .shako {
+        margin-bottom: 15px;
+    }
+    .activeity-content p {
+       
+        line-height: 1.6rem;
+    }
+    .activeity-content h1 {
+       
+        font-size: 27px;
+    }
+    .footer p {
+        font-size: 18px;
+        color: #767676;
+    }
+    
+}
+
+@media(max-width:400px){
+    .app span {
+    
+        height: 44px;
+        width: 44px;
+        font-size: 27px;
+        
+    }
+    .navbar-brand.app {
+        font-size: 19px;
+    }
+    .slider-caption h2 {
+       
+        font-size: 20px;
+    }
+    .slider-section {
+        
+        padding: 82px 0;
+       
+    }
+    p {
+        font-size: 15px;
+    }
+    .fiture-content h4 {
+        font-size: 23px;
+    }
+    .priceing-items ul li {
+       
+        font-size: 16px;
+       
+    }
+    .priceing-items h2 {
+        font-size: 32px;
+    }
+    .priceing-items p {
+      
+        margin-top: 9px;
+    }
+   
+}
+@media (max-width:350px) {
+    .form-control.form.form-control-lg.d-block {
+        
+        width: 155px;
+    
+    }
+    .shihab {
+        margin: auto;
+        width: 97px;
+        font-size: 15px;
+    }
+    .slider-caption h2 {
+        font-size: 17px;
+    }
+    .slider-caption h4 {
+        font-size: 15px;
+    }
+    
+    
+}
